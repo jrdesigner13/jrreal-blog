@@ -1,3 +1,18 @@
+# 2024 - Next 14 - JRReal Blog Dynamic with Sanity
+#### This is the repository with the source code developed from a web/app using Next.js 14 with : 
+#### ReactJS
+#### Tailwind CSS
+#### Typescript
+#### Sanity CMS
+#### Shadcn
+#### lucide-react
+#### Deployment with Vercel
+
+[`Preview`](https://jrreal-blog.vercel.app)
+
+<img width="772" alt="Screenshot 2024-02-01 at 11 02 39" src="https://github.com/jrdesigner13/jrreal-blog/assets/38070740/a43fe17a-6667-486b-85af-0858c1f97c09">
+<img width="792" alt="Screenshot 2024-02-01 at 11 02 58" src="https://github.com/jrdesigner13/jrreal-blog/assets/38070740/68e0633a-e646-4b6a-9768-da8e6330e452">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
